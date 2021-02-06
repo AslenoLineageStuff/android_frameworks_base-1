@@ -71,6 +71,7 @@
         android:layout_height="match_parent"
         android:gravity="center_vertical|end"
         android:layout_gravity="center_vertical|end"
+        android:paddingStart="8dp"
         android:visibility="gone" />
 
     </LinearLayout>
